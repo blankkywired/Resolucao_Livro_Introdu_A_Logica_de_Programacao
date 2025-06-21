@@ -1,4 +1,4 @@
-#Escreva um programa que leia todos os numeros do teclado. O programa deve ler todos os numeros ate que o usuario digite zero. No final da execução,
+#Escreva UM PROGRAMA QUE LEIA TODOS OS NUMEROS DO TECLADO. o PROGRAMA DEVE LER TODOS OS NUMEROS ATE QUE O USUARIO DIGITE ZERO. nO FINAL DA EXECUÇÃO,
 #exiba a soma e a media aritmetica
 
 acumulador = 0
@@ -14,3 +14,4 @@ while iniciar:
     if numeroUsuario == 0:
         print(f'A media é: {acumulador /(quantidade_fatores_digitados - 1)}\nQuantidade numeros digitados: {quantidade_fatores_digitados - 1}' )
         iniciar = False
+        

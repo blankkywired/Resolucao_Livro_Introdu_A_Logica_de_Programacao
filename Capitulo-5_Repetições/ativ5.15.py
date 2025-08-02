@@ -1,7 +1,4 @@
 #Algoritmo que simula uma caixa registradora
-
-
-
 codigoProdutos = {
     "codigos": [1, 2, 3, 5, 9],
     "valoresPorCodigo": [0.50, 1, 4, 7, 8]

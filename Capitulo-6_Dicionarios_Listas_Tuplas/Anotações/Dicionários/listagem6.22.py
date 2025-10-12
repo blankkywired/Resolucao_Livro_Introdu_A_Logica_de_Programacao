@@ -20,3 +20,7 @@ for chave, dados in estoque.items():
     print("Descrição: ", chave)
     print("Quantidade:", dados[0])
     print(f"Preço: {dados[1]:6.2f}\n")
+
+
+
+    
